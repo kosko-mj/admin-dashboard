@@ -3,7 +3,7 @@
 This is a modified version of The Odin Project's admin dashboard assignment, created as part of the Intermediate HTML and CSS curriculum.
 
 ## Purpose
-Originally built as a curriculum exercise, this dashboard has been adapted to serve as an **admin interface** for my [Neighbor's Aid Network](https://github.com/kosko-mj/mutual-aid-nyc) project – a mutual aid resource finder for NYC communities.
+Built as a curriculum exercise, this dashboard is themed around mutual aid administration (pending submissions, resource management, etc.) as practice for future integration.
 
 ## Modifications from the Original Assignment
 - Dashboard themed for mutual aid administration (pending submissions, resource management, etc.)
